@@ -1,6 +1,0 @@
-pandas
-openpyxl
-sklearn
-plotly
-nbformat
-statsmodels
